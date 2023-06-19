@@ -2,7 +2,7 @@
 
 ### I'm a data analyst with experience in e-commerce.
 
-- I'm learning Python, SQl.
+- I'm learning Python, SQL.
 - I'm currently looking for a job.
   
 ### Tech
